@@ -1,0 +1,2 @@
+# Airbnbs-in-Milan
+How to become a smart user in Airbnb? In this work both host’s and guest’s perspectives are provided with useful suggestions on how to improve business, either by correctly pricing, choosing or improving an apartment. The exploitation of non-parametric techniques is essential when the gaussian assumption is completely wrong. Permutational tests, GAMs and bagplots are exploited to achieve optimal performances.
